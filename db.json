@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Felipe Silva",
+      "email": "felipe@example.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Carolina Santos",
+      "email": "carolina@example.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "João Pereira",
+      "email": "joao@example.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "name": "Maria Oliveira",
+      "email": "maria@example.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 2,
+      "name": "Sansung S20+ Ultra",
+      "price": 7520.89
+    }
+  ]
+}

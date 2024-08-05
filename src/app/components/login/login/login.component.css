@@ -1,0 +1,26 @@
+mat-card {
+  padding: 20px;
+}
+
+mat-card-title {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+mat-form-field {
+  margin-bottom: 16px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+mat-card {
+  padding: 20px; /* Adicionado padding ao mat-card */
+}
+
+mat-card-title {
+  margin-bottom: 20px; /* Espaçamento abaixo do título */
+  padding: 0 20px; /* Adicionado padding horizontal ao título */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px; /* Adicionado padding */
+}
+
+mat-form-field {
+  margin-bottom: 16px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+button {
+  margin: 0;
+}

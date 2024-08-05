@@ -1,0 +1,24 @@
+.home {
+  text-align: center;
+  padding: 2rem;
+}
+
+.home .title {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+  color: #3f51b5; /* Cor do título */
+  margin-bottom: 1rem;
+}
+
+.home .subtitle {
+  font-size: 1.1rem;
+  color: #757575; /* Cor do subtítulo */
+  margin-bottom: 1.5rem;
+}
+
+.home mat-card-content p {
+  font-size: 1rem;
+  color: #616161; /* Cor do texto */
+  line-height: 1.5;
+}
